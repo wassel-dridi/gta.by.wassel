@@ -7,7 +7,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-   background-image: url('./image/gta.webp'); 
+   background-image: url('image/gta.webp'); 
   background-size:100%;
   background-repeat: repeat-y;
  }
